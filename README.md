@@ -13,13 +13,13 @@ python3.x
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/nushen96/lastpass_notes_extractor
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd lastpass_notes_extractor
 ```
 
 Run the script
