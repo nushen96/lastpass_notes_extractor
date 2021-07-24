@@ -15,6 +15,9 @@ with open(csv_file_path) as csv_file:
             row_dict["content"] = row[4]
             data.append(row_dict)
 
+# Create output folder if it doesn't exist
+os.makedirs(os.path.join(sys.path[0],'extracted_notes'))
+
 for note in data:
     f = open(os.path.join(sys.path[0],'extracted_notes',f"{note['title']}.txt"), 'w')
     # Notes takes the first line as a title by default
