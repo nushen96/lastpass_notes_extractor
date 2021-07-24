@@ -1,8 +1,8 @@
 # Lastpass notes extractor
 
 This script extracts notes from an exported lastpass database (.csv file),
-and creates a txt file for each note.
-Those file can later be imported into apple's Notes App, for instance.
+and creates a .txt file for each note.
+Those files can later be imported into apple's Notes App, for instance.
 
 ## Prerequisites
 
