@@ -22,7 +22,7 @@ Go to the project directory
   cd lastpass_notes_extractor
 ```
 
-Put the extracted lastpass directory in that folder (must be named "lastpass_export.csv)
+Put the extracted lastpass directory in that folder (must be named **"lastpass_export.csv"**)
 
 Run the script
 
